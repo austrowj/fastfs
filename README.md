@@ -1,17 +1,15 @@
 # jaFS
 
-If you use my work, please cite:
+If you use this work, please cite:
 
-> Austrow, J. (2026). jaFS (Version 0.1.0) [Computer software]. https://github.com/austrowj/jaFS
+> Austrow J. (2026). "A Faster Algorithm for the Finkelstein-Schoenfeld Test and Win Ratio in Hierarchical Composite Endpoint Analysis." *PharmaSUG*, 2026.
 
 BibTex:
 ```{bibtex}
-@software{Austrow_jaFS_2026,
-  author = {Austrow, James},
-  month = mar,
-  title = {{jaFS}},
-  url = {https://github.com/austrowj/jaFS},
-  version = {0.1.0},
-  year = {2026}
+@article{Austrow2026,
+  title={A Faster Algorithm for the Finkelstein-Schoenfeld Test and Win Ratio in Hierarchical Composite Endpoint Analysis},
+  author={Austrow James},
+  journal={PharmaSUG},
+  year={2026}
 }
 ```
